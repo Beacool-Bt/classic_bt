@@ -1,0 +1,1033 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+                              yc_RemoteCtr.o (memcpy)
+D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+                              Drv_bt.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+readreg             0x4               ..\../drivers/qspi/yc11xx_qspi.o
+gDacSum             0x4               fir_8to48.o
+gTemp2              0x4               ..\../drivers/qspi/yc11xx_qspi.o
+gCurLedState        0x9               ..\../drivers/led/yc_led.o
+gEnterSniffTimer    0x18              Drv_bt.o
+gDelayLpm_timer     0x18              ..\../drivers/keypad/yc_keypad.o
+readtemp            0x4               ..\../drivers/qspi/yc11xx_qspi.o
+OTA_datalen         0x4               Drv_bt.o
+gMAXPowerTimer      0x18              Drv_bt.o
+gEmptyFlag          0x2               drv_media.o
+gTemp               0x8               ..\../drivers/qspi/yc11xx_qspi.o
+gChgStatus          0x1               ..\../drivers/battery/yc_battery.o
+temp2               0x4               ..\../drivers/qspi/yc11xx_qspi.o
+gTttt               0x4               drv_media.o
+gReconCount         0x1               Drv_bt.o
+OTA_datasum         0x4               Drv_bt.o
+gTWSWaitSlaveTimer  0x18              Drv_bt.o
+gClkMissMatch       0x1               Drv_bt.o
+ipcReadBuff         0xc8              ..\../drivers/bt/yc11xx_bt.o
+gSwithMasterTimer   0x18              Drv_bt.o
+gReadreg            0x2               ..\../drivers/qspi/yc11xx_qspi.o
+gBLEState           0x2               Drv_bt.o
+ipcSendBuff         0x1e              ..\../drivers/bt/yc11xx_bt.o
+gPcmReadPtr         0x4               fir_8to48.o
+g_is_need_send_slave_reset_audio_cmd
+                    0x1               Drv_bt.o
+dacState            0x1               fir_8to48.o
+temp                0x4               ..\../drivers/qspi/yc11xx_qspi.o
+testSum             0x2               Drv_bt.o
+gSniffMulTimer      0x18              Drv_bt.o
+gClosePaDelayTimer  0x18              Drv_bt.o
+gOTATimer           0x18              Drv_bt.o
+gAdcAvr             0x2               ..\../drivers/battery/yc_battery.o
+gEvtHeader          0x18              ..\../drivers/keypad/yc_keypad.o
+gBackLedState       0x9               ..\../drivers/led/yc_led.o
+gIPC_test           0x1               ..\../drivers/bt/yc11xx_bt.o
+pheader             0x4               ..\../drivers/timer/yc_timer.o
+gTempAvg            0x4               fir_8to48.o
+gQueueVpEvt         0xe               ..\../drivers/voiceprompt/yc_voiceprompt.o
+gEmptyCount         0x2               drv_media.o
+gBat5vRef           0x2               ..\../drivers/battery/yc_battery.o
+gMRAM_type          0x1               ..\../drivers/qspi/yc11xx_qspi.o
+gVpEvtHeader        0x18              ..\../drivers/voiceprompt/yc_voiceprompt.o
+gBRState            0x20              Drv_bt.o
+gtest1              0x2               drv_media.o
+OTA_packetid        0x2               Drv_bt.o
+g_last_detect_buffer_empty_clock
+                    0x4               Drv_bt.o
+gLossMedia          0x2               drv_media.o
+gVpparams           0x10              ..\../drivers/voiceprompt/yc_voiceprompt.o
+gDacFlag            0x1               fir_8to48.o
+gBtReconWorkTimer   0x18              Drv_bt.o
+str1                0x4               bt_hfp.o
+adcVal              0x1               ..\../drivers/battery/yc_battery.o
+gRSSIMuteCount      0x2               Drv_bt.o
+a2dpLen             0x2               ..\../drivers/bt/yc11xx_bt.o
+testFlag            0x1               Drv_bt.o
+gCONLedTimer        0x18              Drv_bt.o
+gChargerIn_timer    0x18              ..\../drivers/battery/yc_battery.o
+gDacCount           0x1               fir_8to48.o
+gHfpWorkingState    0x1               Drv_bt.o
+gReadBat_Timer      0x18              ..\../drivers/battery/yc_battery.o
+gKeypadCtr          0x20              ..\../drivers/keypad/yc_keypad.o
+gReconTimer         0x18              Drv_bt.o
+gVp8KDataHeader     0x18              ..\../drivers/voiceprompt/yc_voiceprompt.o
+gFullqueue          0x2               drv_media.o
+header_Timer        0x18              ..\../drivers/timer/yc_timer.o
+gBat3vRef           0x2               ..\../drivers/battery/yc_battery.o
+gReadTemp           0x104             ..\../drivers/qspi/yc11xx_qspi.o
+gQueueKeyEvt        0x14              ..\../drivers/keypad/yc_keypad.o
+g_tws_reset_last_detect_buffer_empty_clock
+                    0x4               Drv_bt.o
+OTA_flash_start_addr
+                    0x4               Drv_bt.o
+g_tws_reset_flag    0x1               Drv_bt.o
+sys_Timer_Check_Flag
+                    0x1               ..\../drivers/timer/yc_timer.o
+gQueueLedEvt        0xa               ..\../drivers/led/yc_led.o
+gAdcVal             0x10              ..\../drivers/battery/yc_battery.o
+gSBCErrCount        0x1               drv_media.o
+gDacIndex           0x2               fir_8to48.o
+gKeypadPolling_Timer
+                    0x18              ..\../drivers/keypad/yc_keypad.o
+gCharger_Timer      0x18              ..\../drivers/battery/yc_battery.o
+gLed_Timer          0x18              ..\../drivers/led/yc_led.o
+gReconWorkTimeout   0x2               Drv_bt.o
+gdacflag            0x1               drv_media.o
+gRSSICount          0x2               Drv_bt.o
+gLedEvtHeader       0x18              ..\../drivers/led/yc_led.o
+gBatlevel_Timer     0x18              ..\../drivers/battery/yc_battery.o
+gPreIndex           0x4               fir_8to48.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+RAM              0x10010500         0x00000b00         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD yc_RemoteCtr.o
+LOAD Drv_bt.o
+LOAD Drv_debug.o
+LOAD bt_hfp.o
+LOAD ..\../drivers/timer/yc_timer.o
+LOAD ..\../drivers/keypad/yc_keypad.o
+LOAD ..\../drivers/keypad/yc_queue.o
+LOAD ..\../drivers/bt/yc11xx_bt.o
+LOAD ..\../drivers/hal/yc_drv_common.o
+LOAD ..\../drivers/led/yc_led.o
+LOAD ..\../drivers/gpio/yc11xx_gpio.o
+LOAD ..\../drivers/qspi/yc11xx_qspi.o
+LOAD ..\../drivers/voiceprompt/yc_voiceprompt.o
+LOAD ..\../drivers/battery/yc_battery.o
+LOAD ..\../drivers/wdt/yc11xx_wdt.o
+LOAD ..\../drivers/pwm/yc11xx_pwm.o
+LOAD startup_m0.o
+LOAD fir_8to48.o
+LOAD drv_media.o
+LOAD D:\gcc\arm-none-eabi\lib\armv6-m\libm.a
+LOAD D:\gcc\arm-none-eabi\lib\armv6-m\libc.a
+
+.text           0x00000000     0xbb8c
+ *(.isr_vector)
+ .isr_vector    0x00000000       0x6c startup_m0.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text          0x0000006c      0x134 main.o
+                0x0000006c                check_adc_init
+                0x000000f0                main
+ .text          0x000001a0      0x960 yc_RemoteCtr.o
+                0x000001a0                keypad_keyPress_handle
+                0x000001b4                keypad_keyDown_handle
+                0x000001dc                keypad_keyUp_handle
+                0x00000204                tws_user3_action
+                0x00000230                tws_user4_action
+                0x00000254                tws_user2_action
+                0x00000284                tws_user1_action
+                0x000002d4                keypad_keytap_handle
+                0x000002f8                keypad_key_double_handle
+                0x0000031c                keypad_key_triple_handle
+                0x00000340                keypad_key_longPress_release_handle
+                0x00000388                keypad_key_longPress_handle
+                0x000003ac                tws_key_func_handle
+                0x000004cc                Bt_SearchKeyFuncByKeyEvt
+                0x000005e8                Bt_SearchKeyFunc
+                0x00000a70                KeyPad_Event_Handle
+ .text          0x00000b00     0x29f4 Drv_bt.o
+                0x00000c38                Bt_init
+                0x00000c60                Bt_CBMaxPower
+                0x00000c74                Bt_SetIncPwrTimer
+                0x00000ca4                Bt_CBConnectedLed
+                0x00000cc4                Bt_SndCmdExitTWS
+                0x00000cd0                Bt_CBWaitSlaveTimeout
+                0x00000cf0                Bt_CBSniffMul
+                0x00000d10                Bt_SetSniffMulTimer
+                0x00000d30                Bt_CBEnterSniff
+                0x00000d54                Bt_SetEnterSniffTimer
+                0x00000d84                Bt_CBClosePaDelay
+                0x00000da4                Bt_ClosePaDelay
+                0x00000dc4                Bt_RelasePaDelay
+                0x00000ddc                Bt_Reset
+                0x00000e10                Bt_PowerOn
+                0x00000e8c                Bt_PowerOnKeyRelease
+                0x00000ec8                Bt_EvtCallBack
+                0x00001240                Bt_SndCmdBLE
+                0x00001264                Bt_SndCmdSPP
+                0x00001288                OTA_Init
+                0x000012bc                Bt_CBChangeCode
+                0x00001354                Bt_SPPCallBack
+                0x00001714                Bt_BleCallBack
+                0x00001afc                Bt_A2DPCallBack
+                0x00001bf4                Bt_HFPCallBack
+                0x00001cd8                Bt_TWSCallBack
+                0x00001f80                Bt_checkBleIsConnected
+                0x00001f9c                Bt_checkBRIsConnected
+                0x00001fc0                Bt_checkBRIsInDiscoverable
+                0x00001fe4                Bt_CheckWaitPwroff
+                0x00002018                Bt_CBIdleTimeout
+                0x0000202c                Bt_CBAutoPwroff
+                0x000020ac                Bt_ResetAutoPwroffTimer
+                0x000020d4                Bt_SetAutoPwroffTimer
+                0x00002120                Bt_checkReconInfoCRC
+                0x000021f0                Bt_calReconInfoCRC
+                0x00002284                Bt_LoadReconnectInfo
+                0x000022b8                Bt_UpdateDeviceInfo
+                0x000022f8                Bt_CheckReconnectAction
+                0x0000232c                Bt_SndCmdPwroff
+                0x00002378                Bt_ActionBeforeLpm
+                0x00002388                Bt_ActionBeforeHibernate
+                0x00002398                Bt_SndCmdWaitPwroff
+                0x00002418                Bt_SndCmdChargeFullPoweroff
+                0x00002428                Bt_SndCmdChargeDisconnect
+                0x00002438                Bt_SndCmdDisconnect
+                0x00002448                Bt_SndCmdStartDiscovery
+                0x00002458                Bt_SndCmdStopDiscovery
+                0x0000246c                Bt_SndCmdReconnect
+                0x00002480                Bt_SndCmdStartTwsPair
+                0x00002490                Bt_SndCmdPlayPause
+                0x000024b4                Bt_SndCmdAcceptCall
+                0x000024c4                Bt_SndCmdHangup
+                0x000024d4                Bt_SndCmdRejectCall
+                0x000024e4                Bt_SndCmdRedial
+                0x000024f4                Bt_SndCmdWaitMaster
+                0x00002504                Bt_SndCmdTwsUser1
+                0x00002514                Bt_SndCmdTwsUser2
+                0x00002524                Bt_SndCmdTwsUser3
+                0x00002534                Bt_SndCmdTwsUser4
+                0x00002544                Bt_SndCmdtwsPwroff
+                0x00002554                Bt_SndCmdLoadInfo
+                0x00002564                Bt_SndCmdRecoverAudio
+                0x000025a8                Bt_SndCmdBatRep
+                0x000025b8                Bt_SndCmdWaitSlave
+                0x000025c8                Bt_SndCmdEnableSniffMul
+                0x000025d8                Bt_SndCmdDisableSniffMul
+                0x000025e8                Bt_SndCmdEnterSniff
+                0x000025f8                Bt_SndCmdExitSniff
+                0x00002608                Bt_SndCmdUpdateHFPState
+                0x00002618                TwsCB_Recon_Timeout
+                0x00002638                Bt_SndCmdStartReconTws
+                0x0000265c                Bt_SndCmdSndIncPwr
+                0x0000266c                Bt_ReleaseReconTimer
+                0x00002684                BtCB_ReconnectPhoneTimeout
+                0x0000269c                Bt_StartReconnectPhoneTimer
+                0x000026c4                Bt_ReleaseReconnectPhoneTimer
+                0x000026dc                Bt_SndCmdStopReconTws
+                0x000026ec                CB_SwitchToDisconnect
+                0x00002700                CB_SwitchToMaster
+                0x00002714                Bt_SndCmdAcceptTwsSwitch
+                0x00002724                Bt_SndSlavePwroff
+                0x00002748                Bt_SndCmdTwsMasterSwitch
+                0x0000276c                Bt_SndCmdTwsSwitchToMaster
+                0x0000277c                Bt_CheckHFPIsIncomming
+                0x00002798                Bt_setIphoneAdvBdaddr
+                0x00002804                Bt_setIphoneBoxClose
+                0x00002818                Bt_setIphoneBoxOPen
+                0x0000282c                Bt_CheckAVRCPConnected
+                0x00002894                Bt_CheckA2DPConnected
+                0x000028fc                BT_twsCheckProfileConnected
+                0x00002994                BT_twsCheckAndUpdateProfileAfterProfileDisconnect
+                0x000029fc                Bt_DACBufferMonitor
+                0x00002a68                Bt_L2CAPQueueBufferMonitor
+                0x00002a98                Bt_RoundBufferMonitor
+                0x00002aa4                Drv_check_rssi
+                0x00002bb0                Bt_SndCmdResetAudio
+                0x00002c70                Bt_SndCmdHFPStartSync
+                0x00002ca8                Bt_SndCmdSlaveResetAudio
+                0x00002cf0                Bt_SndCmdMasterAudioProcessInfo
+                0x00002d28                tws_user_reset_audio_action
+                0x00002de0                tws_user_hfp_start_sync_action
+                0x00002e2c                tws_slave_check_process_clk_info
+                0x00002ec0                tws_user_process_audio_info
+                0x00002fc4                tws_user_process_remote_audio_info
+                0x000030c4                Bt_CheckIsAudioBufferEmpty
+                0x000031b0                Bt_TwsResetFlagUpdate
+                0x000031e0                Bt_TwsResetFuncInit
+                0x00003240                Bt_TwsDetectAudioBufferEmpty
+                0x00003330                Bt_SndCmdWaitTwsSlave
+                0x00003340                Bt_SndCmdTwsAllProfileDisconnected
+                0x00003350                Bt_SndCmdTwsDropOnePacket
+                0x00003360                Bt_SndCmdBackward
+                0x00003370                Bt_SndCmdForward
+                0x00003380                Bt_AdjustVol
+                0x0000341c                Bt_A2dpCheckStart
+                0x00003450                Bt_ProcessKeyFunc
+ .text          0x000034f4        0x0 Drv_debug.o
+ .text          0x000034f4      0x780 bt_hfp.o
+                0x000034f4                HFP_test
+                0x0000350c                AT_CompareString
+                0x00003570                AT_FindMatchCode
+                0x000035bc                HFP_check_battery_state
+                0x0000361c                HFP_handle_result_ok
+                0x000036a8                HFP_translate_ascii_to_hex
+                0x00003768                HFP_handle_result_ciev
+                0x00003844                HFP_handle_result_brsf
+                0x00003890                HFP_handle_result_vgs
+                0x000038c8                HFP_handle_result_vgm
+                0x00003900                HFP_handle_result_cind
+                0x00003a20                HFP_get_phone_num
+                0x00003a88                HPF_handle_result_code
+                0x00003b18                HFP_process_rfcomm_packet
+                0x00003c0c                Bt_RFCOMMCallBack
+                0x00003c50                Bt_ReportBattery
+ .text          0x00003c74      0x5b0 ..\../drivers/timer/yc_timer.o
+                0x00003d98                SYS_TimerExpireDefaultHandle
+                0x00003dac                SYS_TimerInit
+                0x00003df4                SYS_SetTimer
+                0x00003eb0                SYS_TimerisExist
+                0x00003ef4                SYS_ResetTimer
+                0x00003f64                SYS_TimerTest
+                0x00003f98                SYS_timerPolling
+                0x00004060                SYS_ReleaseTimer
+                0x000040dc                SYS_ReleaseAllTimer
+                0x00004114                SYStick_handle
+                0x00004144                Bt_100ms_timer
+                0x00004180                Bt_watchdog
+                0x0000418c                SYS_delay_ms
+                0x000041ac                SYS_delay_us
+ .text          0x00004224     0x21e8 ..\../drivers/keypad/yc_keypad.o
+                0x00004224                keypad_init
+                0x00004354                key_send_evt_to_Queue
+                0x00004394                keypad_gpio_mapping_process
+                0x00005b64                keypad_keyExpired
+                0x00005da0                keypad_comboKeyExpired
+                0x00005ee4                keypad_keyevtScan
+                0x000062a4                keypad_check_keypress
+                0x00006378                keypad_polling_keyQueue
+                0x000063c0                keypad_Cblpm
+                0x000063d8                keypad_delayLpm
+ .text          0x0000640c      0x248 ..\../drivers/keypad/yc_queue.o
+                0x0000640c                queue_init
+                0x00006464                queue_clear
+                0x00006498                preinsert_Queue
+                0x00006500                Insert_Queue
+                0x00006570                Delete_Queue
+                0x000065d4                Header_Queue
+                0x000065fc                queue_is_empty
+                0x0000661c                queue_is_full
+                0x00006640                queue_ele_count
+ .text          0x00006654      0x510 ..\../drivers/bt/yc11xx_bt.o
+                0x00006668                IpcDefaultCallBack
+                0x00006690                IPC_Initialize
+                0x000066b4                IPC_init
+                0x00006828                IPC_TxBufferIsEnough
+                0x000068ac                IPC_WaitBufferEnough
+                0x000068e8                IPC_TxCommon
+                0x0000695c                IPC_TxPacket
+                0x0000699c                IPC_TxControlCmd
+                0x000069fc                IPC_GetBBDIsconnectReason
+                0x00006a08                IPC_CheckServerConenct
+                0x00006a14                IPC_CheckReconnect
+                0x00006a20                IPC_WaitLpm
+                0x00006a48                IPC_AbandonLpm
+                0x00006a58                IPC_DisableLpm
+                0x00006a68                IPC_EnableLpm
+                0x00006a78                IPC_IsTxBuffEmpty
+                0x00006ab4                IPC_IsRxBuffEmpty
+                0x00006af0                IPC_HandleRxPacket
+ .text          0x00006b64      0x288 ..\../drivers/hal/yc_drv_common.o
+                0x00006b78                HW_REG_16BIT
+                0x00006bb0                HR_REG_16BIT
+                0x00006c14                HR_REG_24BIT
+                0x00006c64                xmemcpy
+                0x00006c9c                xstrlen
+                0x00006ccc                error_handle
+                0x00006cd4                Lpm_LockLpm
+                0x00006d14                Lpm_unLockLpm
+                0x00006d5c                Lpm_CheckLpmFlag
+                0x00006d7c                whileDelay
+                0x00006db4                whileDelayshort
+ .text          0x00006dec      0x930 ..\../drivers/led/yc_led.o
+                0x00006dec                led_init
+                0x00006e54                led_clear_led
+                0x00006e70                Bt_SearchLedFuncByLedEvt
+                0x00007068                Bt_SearchLedFunc
+                0x0000716c                Bt_ProcessLedFunc
+                0x00007200                led_send_fgevt_to_queue
+                0x00007238                led_send_bgevt
+                0x00007320                led_light_ledpwm
+                0x0000736c                led_light_led
+                0x0000743c                led_timer_callback
+                0x0000756c                led_polling_Queue
+                0x0000760c                led_set_inactive
+                0x00007640                led_set_active
+                0x0000766c                led_set_pwm
+ .text          0x0000771c      0x4d0 ..\../drivers/gpio/yc11xx_gpio.o
+                0x00007730                GPIO_SetOut
+                0x000077d8                GPIO_SetInput
+                0x0000783c                GPIO_SetOutput
+                0x00007868                GPIO_SetWakeup
+                0x000079a4                GPIO_SetWakeupByCurrentState
+                0x00007a00                GPIO_ClearWakeup
+                0x00007abc                GPIO_SetGpioMultFunction
+                0x00007af8                gpioGetBit
+                0x00007b7c                GPIO_GetInputStatus
+ *fill*         0x00007bec       0x14 
+ .text          0x00007c00      0xc98 ..\../drivers/qspi/yc11xx_qspi.o
+                0x00007c00                SetLockQSPI
+                0x00007c14                SetReleaseQSPI
+                0x00007c28                setRamType
+                0x00007cb4                Start
+                0x00007cc0                FillSendCMD
+                0x00007d6c                ReadFlashDSPI
+                0x00007e80                QSPI_ReadFlashData
+                0x00007f00                ReadFlashSPI
+                0x00008000                QSPI_ReadFlashRDID
+                0x00008040                QSPI_ReadFlashReg
+                0x000080a0                QSPI_ReadFlashREMS
+                0x000080e0                QSPI_ReadFlashUID
+                0x00008120                WaitFlashFinish
+                0x00008164                WriteFlashData
+                0x00008240                QSPI_WriteFlashData
+                0x00008440                SendFlashWithoutRx
+                0x00008520                QSPI_FlashDeepPowerDown
+                0x00008560                FlashWriteEnable
+                0x000085a0                QSPI_FlashWriteDisable
+                0x000085e0                QSPI_PageEraseFlash
+                0x00008620                QSPI_SectorEraseFlash
+                0x00008660                QSPI_32kEraseFlash
+                0x000086a0                QSPI_64kEraseFlash
+                0x000086e0                QSPI_ChipEraseFlash
+                0x00008720                QSPI_WriteFlashReg
+                0x00008780                QSPI_FlashQuadEnable
+                0x00008800                End
+                0x00008820                prefetch
+                0x00008858                QSPI_Init
+ .text          0x00008898      0xb48 ..\../drivers/voiceprompt/yc_voiceprompt.o
+                0x00008898                VP_init
+                0x0000898c                VP_snd_voiceEvt
+                0x00008a88                VP_play_voice
+                0x00008ed8                VP_CheckGetData
+                0x0000924c                VP_polling_Queue
+                0x0000929c                VP_Check_Queue_Is_empty
+                0x000092b4                VP_Dele_Queue
+                0x000092e4                VP_ADAC_reg_init
+                0x00009318                VP_cvsd_init
+ .text          0x000093e0      0x820 ..\../drivers/battery/yc_battery.o
+                0x000093f4                Bat_init
+                0x000094f0                Bat_reInit
+                0x00009504                Bat_ClcGpio
+                0x00009514                Bat_EnterChargerIn
+                0x00009564                Bat_ExitChargerIn
+                0x0000958c                Bat_CbChargerFull
+                0x000095f8                Bat_CbEnterPowerOff
+                0x00009618                Bat_CbCheckVol
+                0x000096a0                Bat_CbChargerIn
+                0x000096d8                Bat_polling
+                0x00009894                Bat_CalLevel
+                0x000099ac                SendBatCalLevel
+                0x00009a04                Bat_CBLevelCheck
+                0x00009a8c                Bat_setChargerParams
+                0x00009b38                MedianFilter
+ .text          0x00009c00       0x7c ..\../drivers/wdt/yc11xx_wdt.o
+                0x00009c00                WDT_Enable
+                0x00009c38                WDT_Disable
+                0x00009c68                WDT_Kick
+ .text          0x00009c7c      0x500 ..\../drivers/pwm/yc11xx_pwm.o
+                0x00009c7c                PWM_Init
+                0x00009d30                PWM_DeInit
+                0x00009df0                PWM_Start
+                0x00009eb0                PWM_SetGpio
+                0x00009fe0                PWM_SetPnCnt
+ .text          0x0000a17c       0xf0 startup_m0.o
+                0x0000a17c                Reset_Handler
+                0x0000a1e8                adcd_handler
+                0x0000a1e8                HardFault_Handler
+                0x0000a1e8                key_handler
+                0x0000a1e8                spid_handler
+                0x0000a1e8                PendSV_Handler
+                0x0000a1e8                NMI_Handler
+                0x0000a1e8                i2s_handler
+                0x0000a1e8                uartb_handler
+                0x0000a1e8                qspi_handler
+                0x0000a1e8                usb_handler
+                0x0000a1e8                DEF_IRQHandler
+                0x0000a1e8                Default_Handler
+                0x0000a1e8                iicd_handler
+                0x0000a1e8                bt_handler
+                0x0000a1e8                uart_handler
+                0x0000a1e8                SVC_Handler
+                0x0000a1e8                rsa_handler
+                0x0000a1ea                __aeabi_idiv
+                0x0000a208                __aeabi_idivmod
+                0x0000a23a                __aeabi_uidiv
+                0x0000a23a                __aeabi_uidivmod
+ .text          0x0000a26c      0x5b0 fir_8to48.o
+                0x0000a26c                insert_48K
+                0x0000a430                sco_fir_init
+                0x0000a444                check_dac_value
+                0x0000a78c                sco_fir_polling
+ .text          0x0000a81c      0xac8 drv_media.o
+                0x0000a81c                FarrowFilterInit
+                0x0000a834                Drv_checkSBCBusy
+                0x0000a86c                Drv_checkDacEmpty
+                0x0000a8c0                Drv_checkSBCError
+                0x0000a938                Drv_checkDacBufferEnough
+                0x0000a9e0                Drv_drop_media_packet
+                0x0000aa14                Drv_tws_media_start_sync
+                0x0000aa64                Drv_media_polling
+                0x0000b138                FarrowFilter
+ .text          0x0000b2e4        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000b2e4       0x7c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+                0x0000b2e4                memcpy
+ .text          0x0000b360        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+ .text.memset   0x0000b360       0x8c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+                0x0000b360                memset
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0000b3ec       0x88 yc_RemoteCtr.o
+ .rodata        0x0000b474      0x30c Drv_bt.o
+ .rodata        0x0000b780      0x19c bt_hfp.o
+                0x0000b780                HFP_Indicators
+                0x0000b7d0                HFP_result_code
+ .rodata        0x0000b91c      0x148 ..\../drivers/keypad/yc_keypad.o
+ .rodata        0x0000ba64      0x10c ..\../drivers/led/yc_led.o
+                0x0000ba64                gTwsLedFunc
+ .rodata        0x0000bb70       0x1c drv_media.o
+                0x0000bb70                acc_uk
+                0x0000bb74                CoefB0
+                0x0000bb7c                CoefB1
+                0x0000bb84                CoefB2
+ *(.eh_frame*)
+
+.glue_7         0x0000bb8c        0x0
+ .glue_7        0x0000bb8c        0x0 linker stubs
+
+.glue_7t        0x0000bb8c        0x0
+ .glue_7t       0x0000bb8c        0x0 linker stubs
+
+.vfp11_veneer   0x0000bb8c        0x0
+ .vfp11_veneer  0x0000bb8c        0x0 linker stubs
+
+.v4_bx          0x0000bb8c        0x0
+ .v4_bx         0x0000bb8c        0x0 linker stubs
+
+.iplt           0x0000bb8c        0x0
+ .iplt          0x0000bb8c        0x0 main.o
+
+.rel.dyn        0x0000bb8c        0x0
+ .rel.iplt      0x0000bb8c        0x0 main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000bb8c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000bb8c                __exidx_end = .
+                0x0000bb8c                __etext = .
+
+.data           0x10010500      0x288 load address 0x0000bb8c
+                0x10010500                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x10010500       0x34 main.o
+                0x10010500                gTIPCHandleCb
+ .data          0x10010534        0x0 yc_RemoteCtr.o
+ .data          0x10010534        0x8 Drv_bt.o
+                0x10010534                gpRecinfo
+                0x10010538                gpHFPCallState
+ .data          0x1001053c        0x0 Drv_debug.o
+ .data          0x1001053c       0x12 bt_hfp.o
+                0x1001053c                testCmd
+ .data          0x1001054e        0x0 ..\../drivers/timer/yc_timer.o
+ *fill*         0x1001054e        0x2 
+ .data          0x10010550      0x1c0 ..\../drivers/keypad/yc_keypad.o
+                0x10010550                gKeypadConfig
+ .data          0x10010710        0x0 ..\../drivers/keypad/yc_queue.o
+ .data          0x10010710        0x0 ..\../drivers/bt/yc11xx_bt.o
+ .data          0x10010710        0x0 ..\../drivers/hal/yc_drv_common.o
+ .data          0x10010710        0x2 ..\../drivers/led/yc_led.o
+                0x10010710                gLedCfg
+ .data          0x10010712        0x0 ..\../drivers/gpio/yc11xx_gpio.o
+ .data          0x10010712        0x0 ..\../drivers/qspi/yc11xx_qspi.o
+ *fill*         0x10010712        0x2 
+ .data          0x10010714        0xc ..\../drivers/voiceprompt/yc_voiceprompt.o
+                0x10010714                gVpPopOffset
+                0x10010718                vp_array_ptr
+                0x1001071c                gpSPI
+ .data          0x10010720        0xc ..\../drivers/battery/yc_battery.o
+                0x10010720                gBatLevel
+                0x1001072b                CurAdcVal
+ .data          0x1001072c        0x0 ..\../drivers/wdt/yc11xx_wdt.o
+ .data          0x1001072c        0x0 ..\../drivers/pwm/yc11xx_pwm.o
+ .data          0x1001072c        0x0 startup_m0.o
+ .data          0x1001072c       0x52 fir_8to48.o
+                0x1001072c                filterParams
+                0x10010774                gPcmout
+                0x10010778                gDacout
+                0x1001077c                gDacThreshold
+ *fill*         0x1001077e        0x2 
+ .data          0x10010780        0x8 drv_media.o
+                0x10010780                filter_out
+                0x10010784                sbcSrc
+ .data          0x10010788        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .data          0x10010788        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+                0x10010788                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+                0x10010788                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+                0x10010788                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x10010788                . = ALIGN (0x4)
+                0x10010788                __data_end__ = .
+                0x10004704                __INIT_REG__ = 0x10004704
+
+.igot.plt       0x10010788        0x0 load address 0x0000be14
+ .igot.plt      0x10010788        0x0 main.o
+
+.bss            0x10010788      0x5b0 load address 0x0000be14
+                0x10010788                . = ALIGN (0x4)
+                0x10010788                __bss_start__ = .
+ *(.bss*)
+ .bss           0x10010788        0x0 main.o
+ .bss           0x10010788        0x0 yc_RemoteCtr.o
+ .bss           0x10010788        0x0 Drv_bt.o
+ .bss           0x10010788        0x0 Drv_debug.o
+ .bss           0x10010788        0x0 bt_hfp.o
+ .bss           0x10010788        0xc ..\../drivers/timer/yc_timer.o
+                0x10010788                sys_tick_count
+                0x1001078c                bt_100ms_count
+                0x10010790                bt_watch_dog
+ .bss           0x10010794        0x0 ..\../drivers/keypad/yc_keypad.o
+ .bss           0x10010794        0x0 ..\../drivers/keypad/yc_queue.o
+ .bss           0x10010794       0x24 ..\../drivers/bt/yc11xx_bt.o
+ .bss           0x100107b8        0x0 ..\../drivers/hal/yc_drv_common.o
+ .bss           0x100107b8        0x0 ..\../drivers/led/yc_led.o
+ .bss           0x100107b8        0x0 ..\../drivers/gpio/yc11xx_gpio.o
+ .bss           0x100107b8        0x0 ..\../drivers/qspi/yc11xx_qspi.o
+ .bss           0x100107b8        0x8 ..\../drivers/voiceprompt/yc_voiceprompt.o
+                0x100107b8                gVP_type
+                0x100107bc                metest
+ .bss           0x100107c0        0x5 ..\../drivers/battery/yc_battery.o
+                0x100107c0                gSendBat_count
+                0x100107c1                gCheck_count
+                0x100107c2                gLowPowerVoice_count
+                0x100107c3                gCheckBatFull_count
+                0x100107c4                adcAalTemp
+ .bss           0x100107c5        0x0 ..\../drivers/wdt/yc11xx_wdt.o
+ .bss           0x100107c5        0x0 ..\../drivers/pwm/yc11xx_pwm.o
+ .bss           0x100107c5        0x0 startup_m0.o
+ *fill*         0x100107c5        0x3 
+ .bss           0x100107c8        0xd fir_8to48.o
+                0x100107c8                filterData
+                0x100107d4                indexarray
+ *fill*         0x100107d5        0x3 
+ .bss           0x100107d8       0x16 drv_media.o
+                0x100107d8                delta_uk
+                0x100107dc                src_state
+                0x100107e4                uk_tmp
+                0x100107e8                cnt
+                0x100107ec                cntAdjust
+                0x100107ed                gIsDropInProcess
+ .bss           0x100107ee        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x100107ee        0x0 D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+ *(COMMON)
+ *fill*         0x100107ee        0x2 
+ COMMON         0x100107f0      0x146 Drv_bt.o
+                0x100107f0                gEnterSniffTimer
+                0x10010808                OTA_datalen
+                0x1001080c                gMAXPowerTimer
+                0x10010824                gReconCount
+                0x10010828                OTA_datasum
+                0x1001082c                gTWSWaitSlaveTimer
+                0x10010844                gClkMissMatch
+                0x10010848                gSwithMasterTimer
+                0x10010860                gBLEState
+                0x10010862                g_is_need_send_slave_reset_audio_cmd
+                0x10010864                testSum
+                0x10010868                gSniffMulTimer
+                0x10010880                gClosePaDelayTimer
+                0x10010898                gOTATimer
+                0x100108b0                gBRState
+                0x100108d0                OTA_packetid
+                0x100108d4                g_last_detect_buffer_empty_clock
+                0x100108d8                gBtReconWorkTimer
+                0x100108f0                gRSSIMuteCount
+                0x100108f2                testFlag
+                0x100108f4                gCONLedTimer
+                0x1001090c                gHfpWorkingState
+                0x10010910                gReconTimer
+                0x10010928                g_tws_reset_last_detect_buffer_empty_clock
+                0x1001092c                OTA_flash_start_addr
+                0x10010930                g_tws_reset_flag
+                0x10010932                gReconWorkTimeout
+                0x10010934                gRSSICount
+ *fill*         0x10010936        0x2 
+ COMMON         0x10010938        0x4 bt_hfp.o
+                0x10010938                str1
+ COMMON         0x1001093c       0x1d ..\../drivers/timer/yc_timer.o
+                0x1001093c                pheader
+                0x10010940                header_Timer
+                0x10010958                sys_Timer_Check_Flag
+ *fill*         0x10010959        0x3 
+ COMMON         0x1001095c       0x7c ..\../drivers/keypad/yc_keypad.o
+                0x1001095c                gDelayLpm_timer
+                0x10010974                gEvtHeader
+                0x1001098c                gKeypadCtr
+                0x100109ac                gQueueKeyEvt
+                0x100109c0                gKeypadPolling_Timer
+ COMMON         0x100109d8       0xea ..\../drivers/bt/yc11xx_bt.o
+                0x100109d8                ipcReadBuff
+                0x10010aa0                ipcSendBuff
+                0x10010abe                gIPC_test
+                0x10010ac0                a2dpLen
+ *fill*         0x10010ac2        0x2 
+ COMMON         0x10010ac4       0x54 ..\../drivers/led/yc_led.o
+                0x10010ac4                gCurLedState
+                0x10010ad0                gBackLedState
+                0x10010adc                gQueueLedEvt
+                0x10010ae8                gLed_Timer
+                0x10010b00                gLedEvtHeader
+ COMMON         0x10010b18      0x128 ..\../drivers/qspi/yc11xx_qspi.o
+                0x10010b18                readreg
+                0x10010b1c                gTemp2
+                0x10010b20                readtemp
+                0x10010b24                gTemp
+                0x10010b2c                temp2
+                0x10010b30                gReadreg
+                0x10010b34                temp
+                0x10010b38                gMRAM_type
+                0x10010b3c                gReadTemp
+ COMMON         0x10010c40       0x50 ..\../drivers/voiceprompt/yc_voiceprompt.o
+                0x10010c40                gQueueVpEvt
+                0x10010c50                gVpEvtHeader
+                0x10010c68                gVpparams
+                0x10010c78                gVp8KDataHeader
+ COMMON         0x10010c90       0x7c ..\../drivers/battery/yc_battery.o
+                0x10010c90                gChgStatus
+                0x10010c92                gAdcAvr
+                0x10010c94                gBat5vRef
+                0x10010c96                adcVal
+                0x10010c98                gChargerIn_timer
+                0x10010cb0                gReadBat_Timer
+                0x10010cc8                gBat3vRef
+                0x10010ccc                gAdcVal
+                0x10010cdc                gCharger_Timer
+                0x10010cf4                gBatlevel_Timer
+ COMMON         0x10010d0c       0x18 fir_8to48.o
+                0x10010d0c                gDacSum
+                0x10010d10                gPcmReadPtr
+                0x10010d14                dacState
+                0x10010d18                gTempAvg
+                0x10010d1c                gDacFlag
+                0x10010d1d                gDacCount
+                0x10010d1e                gDacIndex
+                0x10010d20                gPreIndex
+ COMMON         0x10010d24       0x12 drv_media.o
+                0x10010d24                gEmptyFlag
+                0x10010d28                gTttt
+                0x10010d2c                gEmptyCount
+                0x10010d2e                gtest1
+                0x10010d30                gLossMedia
+                0x10010d32                gFullqueue
+                0x10010d34                gSBCErrCount
+                0x10010d35                gdacflag
+                0x10010d38                . = ALIGN (0x4)
+ *fill*         0x10010d36        0x2 
+                0x10010d38                __bss_end__ = .
+
+.heap           0x10010d38        0x0
+                0x10010d38                __end__ = .
+                [!provide]                PROVIDE (end, .)
+ *(.heap*)
+ .heap          0x10010d38        0x0 startup_m0.o
+                0x10010d38                __HeapLimit = .
+
+.stack_dummy    0x10010d38      0x100
+ *(.stack*)
+ .stack         0x10010d38      0x100 startup_m0.o
+                0x10011000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x10010f00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+LOAD D:\gcc\lib\gcc\arm-none-eabi\5.4.1\armv6-m\libgcc.a
+OUTPUT(output\a.out elf32-littlearm)
+
+.debug_info     0x00000000     0x85a3
+ .debug_info    0x00000000      0x3a3 main.o
+ .debug_info    0x000003a3      0x8ae yc_RemoteCtr.o
+ .debug_info    0x00000c51     0x1c5f Drv_bt.o
+ .debug_info    0x000028b0       0x79 Drv_debug.o
+ .debug_info    0x00002929      0x626 bt_hfp.o
+ .debug_info    0x00002f4f      0x844 ..\../drivers/timer/yc_timer.o
+ .debug_info    0x00003793      0xa38 ..\../drivers/keypad/yc_keypad.o
+ .debug_info    0x000041cb      0x2f6 ..\../drivers/keypad/yc_queue.o
+ .debug_info    0x000044c1      0x6cc ..\../drivers/bt/yc11xx_bt.o
+ .debug_info    0x00004b8d      0x32c ..\../drivers/hal/yc_drv_common.o
+ .debug_info    0x00004eb9      0x936 ..\../drivers/led/yc_led.o
+ .debug_info    0x000057ef      0x398 ..\../drivers/gpio/yc11xx_gpio.o
+ .debug_info    0x00005b87      0x780 ..\../drivers/qspi/yc11xx_qspi.o
+ .debug_info    0x00006307      0x7e4 ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_info    0x00006aeb      0x89c ..\../drivers/battery/yc_battery.o
+ .debug_info    0x00007387       0xfc ..\../drivers/wdt/yc11xx_wdt.o
+ .debug_info    0x00007483      0x470 ..\../drivers/pwm/yc11xx_pwm.o
+ .debug_info    0x000078f3      0x46e fir_8to48.o
+ .debug_info    0x00007d61      0x842 drv_media.o
+
+.debug_abbrev   0x00000000     0x2168
+ .debug_abbrev  0x00000000      0x13a main.o
+ .debug_abbrev  0x0000013a      0x195 yc_RemoteCtr.o
+ .debug_abbrev  0x000002cf      0x3f6 Drv_bt.o
+ .debug_abbrev  0x000006c5       0x26 Drv_debug.o
+ .debug_abbrev  0x000006eb      0x231 bt_hfp.o
+ .debug_abbrev  0x0000091c      0x2c5 ..\../drivers/timer/yc_timer.o
+ .debug_abbrev  0x00000be1      0x1fd ..\../drivers/keypad/yc_keypad.o
+ .debug_abbrev  0x00000dde       0xef ..\../drivers/keypad/yc_queue.o
+ .debug_abbrev  0x00000ecd      0x22e ..\../drivers/bt/yc11xx_bt.o
+ .debug_abbrev  0x000010fb      0x152 ..\../drivers/hal/yc_drv_common.o
+ .debug_abbrev  0x0000124d      0x201 ..\../drivers/led/yc_led.o
+ .debug_abbrev  0x0000144e      0x116 ..\../drivers/gpio/yc11xx_gpio.o
+ .debug_abbrev  0x00001564      0x1ea ..\../drivers/qspi/yc11xx_qspi.o
+ .debug_abbrev  0x0000174e      0x208 ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_abbrev  0x00001956      0x200 ..\../drivers/battery/yc_battery.o
+ .debug_abbrev  0x00001b56       0x85 ..\../drivers/wdt/yc11xx_wdt.o
+ .debug_abbrev  0x00001bdb      0x13a ..\../drivers/pwm/yc11xx_pwm.o
+ .debug_abbrev  0x00001d15      0x1cd fir_8to48.o
+ .debug_abbrev  0x00001ee2      0x286 drv_media.o
+
+.debug_aranges  0x00000000      0x258
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 yc_RemoteCtr.o
+ .debug_aranges
+                0x00000040       0x20 Drv_bt.o
+ .debug_aranges
+                0x00000060       0x18 Drv_debug.o
+ .debug_aranges
+                0x00000078       0x20 bt_hfp.o
+ .debug_aranges
+                0x00000098       0x20 ..\../drivers/timer/yc_timer.o
+ .debug_aranges
+                0x000000b8       0x20 ..\../drivers/keypad/yc_keypad.o
+ .debug_aranges
+                0x000000d8       0x20 ..\../drivers/keypad/yc_queue.o
+ .debug_aranges
+                0x000000f8       0x20 ..\../drivers/bt/yc11xx_bt.o
+ .debug_aranges
+                0x00000118       0x20 ..\../drivers/hal/yc_drv_common.o
+ .debug_aranges
+                0x00000138       0x20 ..\../drivers/led/yc_led.o
+ .debug_aranges
+                0x00000158       0x20 ..\../drivers/gpio/yc11xx_gpio.o
+ .debug_aranges
+                0x00000178       0x20 ..\../drivers/qspi/yc11xx_qspi.o
+ .debug_aranges
+                0x00000198       0x20 ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_aranges
+                0x000001b8       0x20 ..\../drivers/battery/yc_battery.o
+ .debug_aranges
+                0x000001d8       0x20 ..\../drivers/wdt/yc11xx_wdt.o
+ .debug_aranges
+                0x000001f8       0x20 ..\../drivers/pwm/yc11xx_pwm.o
+ .debug_aranges
+                0x00000218       0x20 fir_8to48.o
+ .debug_aranges
+                0x00000238       0x20 drv_media.o
+
+.debug_line     0x00000000     0x2d8b
+ .debug_line    0x00000000      0x18f main.o
+ .debug_line    0x0000018f      0x1f2 yc_RemoteCtr.o
+ .debug_line    0x00000381      0x90d Drv_bt.o
+ .debug_line    0x00000c8e       0x1d Drv_debug.o
+ .debug_line    0x00000cab      0x25b bt_hfp.o
+ .debug_line    0x00000f06      0x214 ..\../drivers/timer/yc_timer.o
+ .debug_line    0x0000111a      0x3f6 ..\../drivers/keypad/yc_keypad.o
+ .debug_line    0x00001510      0x118 ..\../drivers/keypad/yc_queue.o
+ .debug_line    0x00001628      0x1ae ..\../drivers/bt/yc11xx_bt.o
+ .debug_line    0x000017d6      0x152 ..\../drivers/hal/yc_drv_common.o
+ .debug_line    0x00001928      0x269 ..\../drivers/led/yc_led.o
+ .debug_line    0x00001b91      0x135 ..\../drivers/gpio/yc11xx_gpio.o
+ .debug_line    0x00001cc6      0x282 ..\../drivers/qspi/yc11xx_qspi.o
+ .debug_line    0x00001f48      0x33c ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_line    0x00002284      0x2ad ..\../drivers/battery/yc_battery.o
+ .debug_line    0x00002531       0xd9 ..\../drivers/wdt/yc11xx_wdt.o
+ .debug_line    0x0000260a      0x1d3 ..\../drivers/pwm/yc11xx_pwm.o
+ .debug_line    0x000027dd      0x22e fir_8to48.o
+ .debug_line    0x00002a0b      0x380 drv_media.o
+
+.debug_str      0x00000000     0x3d7f
+ .debug_str     0x00000000      0x450 main.o
+                                0x4b4 (size before relaxing)
+ .debug_str     0x00000450      0x611 yc_RemoteCtr.o
+                                0xac3 (size before relaxing)
+ .debug_str     0x00000a61     0x1374 Drv_bt.o
+                               0x1a96 (size before relaxing)
+ .debug_str     0x00001dd5        0xc Drv_debug.o
+                                0x16b (size before relaxing)
+ .debug_str     0x00001de1      0x427 bt_hfp.o
+                                0x5f0 (size before relaxing)
+ .debug_str     0x00002208      0x18a ..\../drivers/timer/yc_timer.o
+                                0x6f5 (size before relaxing)
+ .debug_str     0x00002392      0x6ce ..\../drivers/keypad/yc_keypad.o
+                                0xb1f (size before relaxing)
+ .debug_str     0x00002a60       0xb6 ..\../drivers/keypad/yc_queue.o
+                                0x28c (size before relaxing)
+ .debug_str     0x00002b16      0x2df ..\../drivers/bt/yc11xx_bt.o
+                                0x4b4 (size before relaxing)
+ .debug_str     0x00002df5       0xe3 ..\../drivers/hal/yc_drv_common.o
+                                0x290 (size before relaxing)
+ .debug_str     0x00002ed8      0x364 ..\../drivers/led/yc_led.o
+                                0x911 (size before relaxing)
+ .debug_str     0x0000323c       0xd4 ..\../drivers/gpio/yc11xx_gpio.o
+                                0x399 (size before relaxing)
+ .debug_str     0x00003310      0x265 ..\../drivers/qspi/yc11xx_qspi.o
+                                0x429 (size before relaxing)
+ .debug_str     0x00003575      0x148 ..\../drivers/voiceprompt/yc_voiceprompt.o
+                                0x7de (size before relaxing)
+ .debug_str     0x000036bd      0x21c ..\../drivers/battery/yc_battery.o
+                                0x988 (size before relaxing)
+ .debug_str     0x000038d9       0x46 ..\../drivers/wdt/yc11xx_wdt.o
+                                0x1bc (size before relaxing)
+ .debug_str     0x0000391f      0x11c ..\../drivers/pwm/yc11xx_pwm.o
+                                0x3ef (size before relaxing)
+ .debug_str     0x00003a3b      0x170 fir_8to48.o
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00003bab      0x1d4 drv_media.o
+                                0x3fa (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e main.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f yc_RemoteCtr.o
+ .comment       0x0000006e       0x6f Drv_bt.o
+ .comment       0x0000006e       0x6f Drv_debug.o
+ .comment       0x0000006e       0x6f bt_hfp.o
+ .comment       0x0000006e       0x6f ..\../drivers/timer/yc_timer.o
+ .comment       0x0000006e       0x6f ..\../drivers/keypad/yc_keypad.o
+ .comment       0x0000006e       0x6f ..\../drivers/keypad/yc_queue.o
+ .comment       0x0000006e       0x6f ..\../drivers/bt/yc11xx_bt.o
+ .comment       0x0000006e       0x6f ..\../drivers/hal/yc_drv_common.o
+ .comment       0x0000006e       0x6f ..\../drivers/led/yc_led.o
+ .comment       0x0000006e       0x6f ..\../drivers/gpio/yc11xx_gpio.o
+ .comment       0x0000006e       0x6f ..\../drivers/qspi/yc11xx_qspi.o
+ .comment       0x0000006e       0x6f ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .comment       0x0000006e       0x6f ..\../drivers/battery/yc_battery.o
+ .comment       0x0000006e       0x6f ..\../drivers/wdt/yc11xx_wdt.o
+ .comment       0x0000006e       0x6f ..\../drivers/pwm/yc11xx_pwm.o
+ .comment       0x0000006e       0x6f fir_8to48.o
+ .comment       0x0000006e       0x6f drv_media.o
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 main.o
+ .ARM.attributes
+                0x00000031       0x31 yc_RemoteCtr.o
+ .ARM.attributes
+                0x00000062       0x31 Drv_bt.o
+ .ARM.attributes
+                0x00000093       0x31 Drv_debug.o
+ .ARM.attributes
+                0x000000c4       0x31 bt_hfp.o
+ .ARM.attributes
+                0x000000f5       0x31 ..\../drivers/timer/yc_timer.o
+ .ARM.attributes
+                0x00000126       0x31 ..\../drivers/keypad/yc_keypad.o
+ .ARM.attributes
+                0x00000157       0x31 ..\../drivers/keypad/yc_queue.o
+ .ARM.attributes
+                0x00000188       0x31 ..\../drivers/bt/yc11xx_bt.o
+ .ARM.attributes
+                0x000001b9       0x31 ..\../drivers/hal/yc_drv_common.o
+ .ARM.attributes
+                0x000001ea       0x31 ..\../drivers/led/yc_led.o
+ .ARM.attributes
+                0x0000021b       0x31 ..\../drivers/gpio/yc11xx_gpio.o
+ .ARM.attributes
+                0x0000024c       0x31 ..\../drivers/qspi/yc11xx_qspi.o
+ .ARM.attributes
+                0x0000027d       0x31 ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .ARM.attributes
+                0x000002ae       0x31 ..\../drivers/battery/yc_battery.o
+ .ARM.attributes
+                0x000002df       0x31 ..\../drivers/wdt/yc11xx_wdt.o
+ .ARM.attributes
+                0x00000310       0x31 ..\../drivers/pwm/yc11xx_pwm.o
+ .ARM.attributes
+                0x00000341       0x1b startup_m0.o
+ .ARM.attributes
+                0x0000035c       0x31 fir_8to48.o
+ .ARM.attributes
+                0x0000038d       0x31 drv_media.o
+ .ARM.attributes
+                0x000003be       0x2c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000003ea       0x2c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+
+.debug_frame    0x00000000     0x278c
+ .debug_frame   0x00000000       0x4c main.o
+ .debug_frame   0x0000004c      0x20c yc_RemoteCtr.o
+ .debug_frame   0x00000258      0xde4 Drv_bt.o
+ .debug_frame   0x0000103c      0x200 bt_hfp.o
+ .debug_frame   0x0000123c      0x208 ..\../drivers/timer/yc_timer.o
+ .debug_frame   0x00001444      0x14c ..\../drivers/keypad/yc_keypad.o
+ .debug_frame   0x00001590      0x130 ..\../drivers/keypad/yc_queue.o
+ .debug_frame   0x000016c0      0x294 ..\../drivers/bt/yc11xx_bt.o
+ .debug_frame   0x00001954      0x184 ..\../drivers/hal/yc_drv_common.o
+ .debug_frame   0x00001ad8      0x1d0 ..\../drivers/led/yc_led.o
+ .debug_frame   0x00001ca8      0x14c ..\../drivers/gpio/yc11xx_gpio.o
+ .debug_frame   0x00001df4      0x394 ..\../drivers/qspi/yc11xx_qspi.o
+ .debug_frame   0x00002188      0x11c ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_frame   0x000022a4      0x1fc ..\../drivers/battery/yc_battery.o
+ .debug_frame   0x000024a0       0x6c ..\../drivers/wdt/yc11xx_wdt.o
+ .debug_frame   0x0000250c       0xb0 ..\../drivers/pwm/yc11xx_pwm.o
+ .debug_frame   0x000025bc       0x90 fir_8to48.o
+ .debug_frame   0x0000264c       0xe8 drv_media.o
+ .debug_frame   0x00002734       0x2c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00002760       0x2c D:\gcc\arm-none-eabi\lib\armv6-m\libc.a(lib_a-memset.o)
+
+.debug_ranges   0x00000000      0x308
+ .debug_ranges  0x00000000       0x48 Drv_bt.o
+ .debug_ranges  0x00000048       0x18 ..\../drivers/led/yc_led.o
+ .debug_ranges  0x00000060       0x30 ..\../drivers/voiceprompt/yc_voiceprompt.o
+ .debug_ranges  0x00000090       0xf0 fir_8to48.o
+ .debug_ranges  0x00000180      0x188 drv_media.o
+
+.debug_loc      0x00000000      0xff7
+ .debug_loc     0x00000000      0x656 fir_8to48.o
+ .debug_loc     0x00000656      0x9a1 drv_media.o

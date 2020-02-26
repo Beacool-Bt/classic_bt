@@ -1,0 +1,49 @@
+mem_lpm_config:8f 1e ca
+mem_lpm_buckcnt:0a 0b ef 07
+mem_lpm_hibernate_switch:00
+mem_gpio_wakeup_low:00 00 00 00 00 00 00 00
+mem_fcomp_mul:02
+mem_fcomp_div:24
+mem_iscan_window:20 00
+mem_iscan_interval:00 04
+mem_pscan_window:16 00
+mem_pscan_interval:00 04
+mem_inq_window:20 00
+mem_page_window:30 00
+mem_page_to:00 28
+mem_rx_window_init:80 03
+mem_rx_window_sniff:00 06
+#tx ack window:7000
+
+#rx window:15000
+#mem_24g_rx_window:98 3a
+#mem_lpm_xtalcnt:00 0a 1b ef 0f
+mem_lpm_xtalcnt:00 0a 1b ef 0b
+
+mem_ef_base:30 ff 87
+mem_eeprom_block_size:80
+
+mem_vp_poweron_addr:00 10 01
+mem_vp_poweroff_addr:00 00 01
+mem_vp_connected_addr:00 00 01
+mem_vp_disconnect_addr:00 00 01
+mem_vp_lowbat_addr:00 00 01
+mem_vp_vlm_max:00 00 01
+mem_vp_tws_connected:00 00 01
+mem_vp_0:00 00 01
+mem_vp_1:00 00 01
+mem_vp_2:00 00 01
+mem_vp_3:00 00 01
+mem_vp_4:00 00 01
+mem_vp_5:00 00 01
+mem_vp_6:00 00 01
+mem_vp_7:00 00 01
+mem_vp_8:00 00 01
+mem_vp_9:00 00 01
+mem_vp_ring_addr: 00 00 01
+mem_rf_params:
+07 e2
+6e 25
+ff
+mem_rf_init_ptr:mem_rf_params
+
